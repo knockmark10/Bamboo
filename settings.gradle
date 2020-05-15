@@ -1,0 +1,3 @@
+rootProject.name='LocationKit'
+include ':app'
+include ':bamboo'
